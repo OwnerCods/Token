@@ -74,7 +74,7 @@ contract Owned{
 }
 
 
-contract DeFin is Owned {
+contract Coins is Owned {
     using SafeMath for uint;
    
 
