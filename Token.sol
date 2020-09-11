@@ -81,8 +81,8 @@ contract DeFin is Owned {
     uint256 public sellPriceToken;
     uint256 public buyPrice;
    
-     string constant private _name = "Name";
-     string constant private _simbol = "Tiker";
+     string constant private _name = "Bond007";
+     string constant private _simbol = "007";
      uint8 constant private _decimals = 18;
      uint256 private _totalSupply;
     
